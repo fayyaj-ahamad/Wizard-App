@@ -1,4 +1,4 @@
-"I developed a fully animated website using HTML, CSS, and GSAP, showcasing advanced animation techniques to enhance user engagement and interactivity"
+"I developed a fully animated website using React JS, Tailwind CSS, and GSAP, showcasing advanced animation techniques to enhance user engagement and interactivity"
 
 
 
